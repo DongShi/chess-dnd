@@ -1,4 +1,4 @@
-a proof of concept of (react-dnd tutorial)[http://react-dnd.github.io/react-dnd/docs-tutorial.html]
+a proof of concept of [react-dnd tutorial](http://react-dnd.github.io/react-dnd/docs-tutorial.html)
 
 
 how to use;
